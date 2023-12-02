@@ -46,9 +46,9 @@ Going back to administrator panel, I created 3 different SLAs (service level agr
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/bCv9YSg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+Lastly, I created 4 more help desk topics for the users to specify what area of assistance is needed for the ticket they're working on. 
 </p>
 <br />
