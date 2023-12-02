@@ -38,10 +38,10 @@ While using the osTicket system, I was able to set up roles, departments and tea
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Kskjk0S.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+Going back to administrator panel, I created 3 different SLAs (service level agreements). This will help with organization as it provides a lenght in time in which each ticket is expected to be closed by the help Ddsk Administrator.
 </p>
 <br />
 
